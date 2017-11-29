@@ -1,0 +1,10 @@
+{
+"name": "webshare",
+"displayname": "webshare.cz",
+"description": "Searching webshare file sharing service",
+"version": "0.1",
+"site": "http://webshare.cz",
+"module": "search.php",
+"type": "search",
+"class": "SynoDLMSearchUlozto"
+}
